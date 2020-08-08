@@ -1,4 +1,4 @@
-### Hi there, I'm Davy - aka [codeSTACKr][website] 👋
+### Hi there, I'm [Davy][website] 👋
 
 ### Connect with me:
 
