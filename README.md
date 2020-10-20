@@ -34,6 +34,10 @@
 <br />
 <br />
 
+[website]: https://davyhausser.com
+[twitter]: https://twitter.com/DavyHausser
+[instagram]: https://instagram.com/davyhausser
+[linkedin]: https://linkedin.com/in/davyhausser
 [vscode]: https://code.visualstudio.com
 [html5]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS
@@ -45,8 +49,4 @@
 [node]: http://nodejs.org
 [github]: https://github.com/dhausser
 
-[website]: https://davyhausser.com
-[twitter]: https://twitter.com/DavyHausser
-[instagram]: https://instagram.com/davyhausser
-[linkedin]: https://linkedin.com/in/davyhausser
-
+<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=dhausser&show_icons=true" /></p>
