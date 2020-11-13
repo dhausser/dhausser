@@ -1,7 +1,7 @@
 # Hi I'm Davy 👋 
-[![Linkedin Badge](https://img.shields.io/badge/-dthyresson-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davyhausser/)](https://www.linkedin.com/in/dthyresson)
-[![Website Badge](https://img.shields.io/badge/-thyresson.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://thyresson.io)](https://davyhausser.com)
-[![Twitter Badge](https://img.shields.io/badge/-@dthyresson-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DavyHausser)](https://twitter.com/dthyresson)
+[![Linkedin Badge](https://img.shields.io/badge/-davyhausser-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davyhausser/)](https://www.linkedin.com/in/dthyresson)
+[![Website Badge](https://img.shields.io/badge/-davyhausser.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://thyresson.io)](https://davyhausser.com)
+[![Twitter Badge](https://img.shields.io/badge/-@davyhausser-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/davyhausser)](https://twitter.com/dthyresson)
 
 <h3>Things I code with</h3>
 <p>
